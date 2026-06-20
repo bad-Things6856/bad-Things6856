@@ -1,36 +1,49 @@
 <h1 align="center">🎤💜 BAD THINGS 💗🎤</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome...;Teto%20Energy%20Online;Music%20%2B%20Code%20%2B%20Chaos&center=true&width=520&height=45&color=FF66CC">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="800">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Teto%20Mode%20Activated;Chaos%20Aesthetic;Welcome%20to%20My%20World&center=true&width=520&height=45&color=FF66CC">
 </p>
 
 ---
 
-<h2 align="center">🎤 TETO ZONE</h2>
+<!-- HERO -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="220">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="220">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="220">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="700">
+  <img src="https://media.tenor.com/qOLz9HAntoMAAAAC/kasane-teto-waving.gif" width="200">
+  <img src="https://media.tenor.com/Q3zzOZwKiA8AAAAM/hatsune-miku-miku-hatsune.gif" width="300">
+  <img src="https://media.tenor.com/qOLz9HAntoMAAAAC/kasane-teto-waving.gif" width="200">
 </p>
 
 ---
 
-<h2 align="center">🧃 CHAOS FEED</h2>
+<h2 align="center">🎤 TETO COLLAGE</h2>
+
+<!-- GRID ROW 1 -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="180">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="180">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="180">
-  <img src="https://media.giphy.com/media/fxsqOYnIMEefC/giphy.gif" width="180">
+  <img src="https://media4.giphy.com/media/1tbQ4MyheOvlUA70tf/giphy.gif" width="180">
+  <img src="https://media3.giphy.com/media/LW7AINTc2BwD4wPK2c/200.webp" width="180">
+  <img src="https://media0.giphy.com/media/7bnOGX8dTBfr7fJHpC/200.webp" width="180">
+  <img src="https://media3.giphy.com/media/dYWQ9s1heMH7DPQfCu/giphy.webp" width="180">
+</p>
+
+<!-- GRID ROW 2 -->
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/xqXbhb0mclcCexorFs/giphy.webp" width="180">
+  <img src="https://media2.giphy.com/media/ct5bSAvJEvWi0gDhDn/giphy.webp" width="180">
+  <img src="https://media2.giphy.com/media/Knuvg2lezw4r95ZKL6/giphy.webp" width="180">
+  <img src="https://media1.giphy.com/media/45zUDSc1i5S59ZoY5O/giphy.gif" width="180">
+</p>
+
+---
+
+<!-- FLOW SECTION -->
+
+<h2 align="center">🌀 CHAOS FLOW</h2>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/kxCxjrJwUr9djBDwVb/giphy.gif" width="700">
 </p>
 
 ---
@@ -38,22 +51,18 @@
 <h2 align="center">✨ ABOUT</h2>
 
 <p align="center">
-💻 exploring tech & random builds <br>
-🎮 gaming / streaming / music <br>
-🎧 teto vibe all day <br>
-⚡ building chaos step by step <br>
+💻 exploring tech <br>
+🎮 gaming / streaming <br>
+🎧 teto + music vibe <br>
+⚡ building chaos <br>
 </p>
 
 ---
 
-<h2 align="center">📊 SYSTEM STATS</h2>
+<h2 align="center">📊 STATS</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bad-Things6856&show_icons=true&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bad-Things6856&theme=radical"/>
 </p>
 
 ---
@@ -99,9 +108,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="800">
-</p>
-
-<p align="center">
-  💜🎤 END OF TRANSMISSION 🎤💗
+  💜🎤 END OF CHAOS 🎤💗
 </p>
