@@ -3,8 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00FF00&center=true&vCenter=true&width=700&lines=BOOTING...;ACCESS+GRANTED;WELCOME+bad-Things6856" />
 </p>
 
+<!-- NEW CLEAN CYBER GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%">
 </p>
 
 <h1 align="center">⚡ bad-Things6856 ⚡</h1>
@@ -84,8 +85,9 @@
 
 ## 🎥 VISUAL
 
+<!-- NEW BETTER LOOP GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="100%">
 </p>
 
 ---
