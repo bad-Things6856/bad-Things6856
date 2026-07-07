@@ -95,9 +95,9 @@
   <img src="https://img.shields.io/badge/X-CC66FF?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/inf.rd/" target="_blank" rel="noopener noreferrer">
+<!-- <a href="https://www.instagram.com/inf.rd/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-FF66CC?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+</a> -->
 
 <a href="https://steamcommunity.com/profiles/76561199575255619/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Steam-9933FF?style=for-the-badge&logo=steam&logoColor=white"/>
