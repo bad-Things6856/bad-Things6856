@@ -94,6 +94,9 @@
 <a href="https://x.com/bad_things6856" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/X-CC66FF?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
+ <a href="https://www.instagram.com/bad_things6856/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-FF66CC?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 <!-- <a href="https://www.instagram.com/inf.rd/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-FF66CC?style=for-the-badge&logo=instagram&logoColor=white"/>
