@@ -1,7 +1,7 @@
 <h1 align="center">🎤💜 BAD THINGS 💗🎤</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Teto%20Mode%20Activated;Chaos%20Aesthetic;Welcome%20to%20My%20World&center=true&width=520&height=45&color=FF66CC">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Teto%20Fan%20boy;Chaos%20everWhere;Welcome%20to%20My%20World&center=true&width=520&height=45&color=FF66CC">
 </p>
 
 ---
