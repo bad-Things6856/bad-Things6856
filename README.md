@@ -104,7 +104,7 @@ Always learning, growing, and creating cute things! 💖🌷<br>
 
 ---
 
-<h2 align="center">🌐 CONNECT</h2>
+<h2 align="center">🌐 CONNECT To Me 👾</h2>
 
 <p align="center">
 
@@ -148,5 +148,5 @@ Always learning, growing, and creating cute things! 💖🌷<br>
 ---
 
 <p align="center">
-  💜🎤 END OF CHAOS 🎤💗
+  💜🎤 END OF My Aura Will be filled Shortly🤕💗
 </p>
