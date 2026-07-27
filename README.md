@@ -67,6 +67,40 @@
 
 ---
 
+<h2 align="center">💻 FREECODECAMP JOUR_PROGRESS 💜</h2>
+
+<p align="center">
+  <a href="https://www.freecodecamp.org/bad_things6856">
+    <img src="https://img.shields.io/badge/freeCodeCamp-BAD%20THINGS-FF66CC?style=for-the-badge&logo=freecodecamp&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  🎓 Learning one project at a time...<br>
+  ⚡ Building chaos with HTML, CSS & JavaScript<br>
+  💜 Every completed challenge brings more XP.
+</p>
+
+<p align="center">
+
+| 🎯 Goal | Status |
+|:------|:------:|
+| Responsive Web Design | 🟣 In Progress |
+| JavaScript Algorithms | ⚪ Locked |
+| Front End Libraries | ⚪ Locked |
+| Data Visualization | ⚪ Locked |
+| Back End Development | ⚪ Locked |
+
+</p>
+
+<p align="center">
+  <a href="https://www.freecodecamp.org/bad_things6856">
+    <img src="https://img.shields.io/badge/View%20My%20Progress-CC66FF?style=for-the-badge&logo=freecodecamp&logoColor=white">
+  </a>
+</p>
+
+---
+
 <h2 align="center">🌐 CONNECT</h2>
 
 <p align="center">
