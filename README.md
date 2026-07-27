@@ -51,10 +51,13 @@
 <h2 align="center">✨ ABOUT</h2>
 
 <p align="center">
-💻 exploring tech <br>
-🎮 gaming / streaming <br>
-🎧 teto + music vibe <br>
-⚡ building chaos <br>
+🌷 **About Me** 🌷
+
+Just a girl who loves coding 💻🌸<br>
+Skilled in **C** & **HTML** ✨<br>
+Know the basics of **Python, Java & MySQL** 🌼<br>
+Always learning, growing, and creating cute things! 💖🌷<br>
+
 </p>
 
 ---
