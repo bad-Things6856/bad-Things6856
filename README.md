@@ -51,11 +51,11 @@
 <h2 align="center">✨ ABOUT</h2>
 
 <p align="center">
-🌷 **About Me** 🌷
+🌷 About Me 🌷
 <br>
-Just a girl who loves coding 💻🌸<br>
-Skilled in **C** & **HTML** ✨<br>
-Know the basics of **Python, Java & MySQL** 🌼<br>
+Just a cutE who loves coding 💻🌸<br>
+Skilled in C & HTML ✨<br>
+Know the basics of Python, Java & MySQL 🌼<br>
 Always learning, growing, and creating cute things! 💖🌷<br>
 
 </p>
