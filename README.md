@@ -52,7 +52,7 @@
 
 <p align="center">
 🌷 **About Me** 🌷
-
+<br>
 Just a girl who loves coding 💻🌸<br>
 Skilled in **C** & **HTML** ✨<br>
 Know the basics of **Python, Java & MySQL** 🌼<br>
