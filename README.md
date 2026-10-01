@@ -106,12 +106,13 @@ Always learning, growing, and creating cute things! 💖🌷<br>
 
 <h2 align="center">🌐 CONNECT To Me 👾</h2>
 
-<p align="center">
+
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313bxqbyzqofil3epednl4ulinxi&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313bxqbyzqofil3epednl4ulinxi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=ffffff&interchange=true&hide_remaster=false&mode=dark&bar_color=ff00ff&bar_color_cover=true">
   </a>
 </p>
+<p align="center">
 <a href="https://in.pinterest.com/bad_things6856/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Pinterest-FF66CC?style=for-the-badge&logo=pinterest&logoColor=white"/>
 </a>
