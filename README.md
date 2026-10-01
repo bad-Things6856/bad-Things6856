@@ -18,7 +18,7 @@
 
 <h2 align="center">🎤 TETO COLLAGE</h2>
 
-<!-- GRID ROW 1 -->
+<!-- GRID ROW 1 
 
 <p align="center">
   <img src="https://media4.giphy.com/media/1tbQ4MyheOvlUA70tf/giphy.gif" width="180">
@@ -26,8 +26,8 @@
   <img src="https://media0.giphy.com/media/7bnOGX8dTBfr7fJHpC/200.webp" width="180">
   <img src="https://media3.giphy.com/media/dYWQ9s1heMH7DPQfCu/giphy.webp" width="180">
 </p>
-
-<!-- GRID ROW 2 -->
+-->
+<!-- GRID ROW 2 
 
 <p align="center">
   <img src="https://media4.giphy.com/media/xqXbhb0mclcCexorFs/giphy.webp" width="180">
@@ -36,7 +36,7 @@
   <img src="https://media1.giphy.com/media/45zUDSc1i5S59ZoY5O/giphy.gif" width="180">
 </p>
 
----
+--->
 
 <!-- FLOW SECTION -->
 
