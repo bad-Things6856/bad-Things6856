@@ -6,7 +6,7 @@
 
 ---
 
-<!-- HERO -->
+<!-- HERO --
 
 <p align="center">
   <img src="https://media.tenor.com/qOLz9HAntoMAAAAC/kasane-teto-waving.gif" width="200">
@@ -14,7 +14,7 @@
   <img src="https://media.tenor.com/qOLz9HAntoMAAAAC/kasane-teto-waving.gif" width="200">
 </p>
 
----
+--->
 
 <h2 align="center">🎤 TETO COLLAGE</h2>
 
