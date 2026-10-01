@@ -90,9 +90,9 @@ Always learning, growing, and creating cute things! 💖🌷<br>
 |:------|:------:|
 | Responsive Web Design | 🟣 In Progress |
 | JavaScript Algorithms | ⚪ Locked |
-| Front End Libraries | ⚪ Locked |
-| Data Visualization | ⚪ Locked |
-| Back End Development | ⚪ Locked |
+| Front End Libraries | 🟣 In Progress |
+| Data Visualization | 🟣 In Progress |
+| Back End Development | 🟣 In Progress |
 
 </p>
 
