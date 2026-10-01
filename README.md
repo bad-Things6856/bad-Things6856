@@ -16,7 +16,7 @@
 
 --->
 
-<h2 align="center">🎤 TETO COLLAGE</h2>
+<h2 align="center">🎤I LIKE MUSICKO</h2>
 
 <!-- GRID ROW 1 
 
@@ -40,7 +40,7 @@
 
 <!-- FLOW SECTION -->
 
-<h2 align="center">🌀 CHAOS FLOW</h2>
+
 
 <p align="center">
   <img src="https://media4.giphy.com/media/kxCxjrJwUr9djBDwVb/giphy.gif" width="700">
