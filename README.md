@@ -16,7 +16,7 @@
 
 --->
 
-<h2 align="center">🎤I LIKE MUSICKO</h2>
+<h2 align="center">[🎤I LIKE MUSICKO](https://github.com/bad-Things6856/assignments/blob/main/README.md)</h2>
 
 <!-- GRID ROW 1 
 
