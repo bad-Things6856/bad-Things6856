@@ -107,7 +107,7 @@ Always learning, growing, and creating bads things! 💖🌷<br>
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313bxqbyzqofil3epednl4ulinxi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=ffffff&interchange=true&hide_remaster=false&mode=dark&bar_color=ff00ff&bar_color_cover=true">
   </a>
 </p>
----
+
 
 <h2 align="center">(⁠~⁠￣⁠³⁠￣⁠)⁠~ connect to meh *⁠\⁠0⁠/⁠*</h2>
 <p align="center">
