@@ -99,7 +99,7 @@ Always learning, growing, and creating bads things! 💖🌷<br>
 
 ---
 
-<h2 align="center">🌐 CONNECT To Me 👾</h2>
+<h2 align="center">🌐 linstenin 👾</h2>
 
 
 <p align="center">
@@ -107,6 +107,9 @@ Always learning, growing, and creating bads things! 💖🌷<br>
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313bxqbyzqofil3epednl4ulinxi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=ffffff&interchange=true&hide_remaster=false&mode=dark&bar_color=ff00ff&bar_color_cover=true">
   </a>
 </p>
+---
+
+<h2 align="center">(⁠~⁠￣⁠³⁠￣⁠)⁠~ connect to meh *⁠\⁠0⁠/⁠*</h2>
 <p align="center">
 <a href="https://in.pinterest.com/bad_things6856/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Pinterest-FF66CC?style=for-the-badge&logo=pinterest&logoColor=white"/>
