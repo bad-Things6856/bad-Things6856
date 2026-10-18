@@ -78,11 +78,6 @@ Always learning, growing, and creating bads things! 💖🌷<br>
   </a>
 </p>
 
-<p align="center">
-  🎓 Learning one project at a time...<br>
-  ⚡ Building chaos with HTML, CSS & JavaScript<br>
-  💜 Every completed challenge brings more XP.
-</p>
 
 <p align="center">
 
