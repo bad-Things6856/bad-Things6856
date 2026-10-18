@@ -53,11 +53,10 @@
 
 <p align="center">
 🌷 About Me 🌷
-<br>
-Just a cutE who loves coding 💻🌸<br>
-Skilled in C & HTML ✨<br>
+<br>debugging my life💻🌸<br>
+skild in C & HTML ✨<br>
 Know the basics of Python, Java & MySQL 🌼<br>
-Always learning, growing, and creating cute things! 💖🌷<br>
+Always learning, growing, and creating bads things! 💖🌷<br>
 
 </p>
 
